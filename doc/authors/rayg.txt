@@ -1,0 +1,1 @@
+Rayg - managing Puppet code class 02042016
